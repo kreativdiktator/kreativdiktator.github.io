@@ -1,7 +1,7 @@
 # kreativdiktator.github.io
 
 Frame 1:
-![alt Frame 1](Frame 1.jpg?raw=true)
+https://github.com/kreativdiktator/kreativdiktator.github.io/blob/b81512f4f23d306d0cf5646415bc858b4e290934/Frame%201.jpg
 
 Frame 2:
-![alt Frame 2](Frame 2.jpg?raw=true)
+https://github.com/kreativdiktator/kreativdiktator.github.io/blob/c530ccaf2bbdd5c382eccbdfc432200c537cf7ee/Frame%202.jpg
