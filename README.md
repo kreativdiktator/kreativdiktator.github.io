@@ -5,3 +5,6 @@ Frame 1:
 
 Frame 2:
 [Frame 2](Frame 2.jpg)
+
+Frame 3:
+[Frame 3](Frame 3.jpg)
